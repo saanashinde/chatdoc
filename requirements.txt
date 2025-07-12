@@ -1,0 +1,8 @@
+streamlit
+PyMuPDF
+python-docx
+spacy
+faiss-cpu
+sentence-transformers
+transformers
+torch
